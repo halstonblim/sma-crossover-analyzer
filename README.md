@@ -1,6 +1,8 @@
 # SMA Crossover Analyzer
 
-A lightweight toolkit for detecting simple moving-average (SMA) crossovers in historical price data.
+A lightweight toolkit for detecting simple moving-average (SMA) crossovers in historical price data using C++.
+
+![AAPL historical price](AAPL_daily_out.png)
 
 ## What it does
 1. Downloads daily price data for a chosen stock symbol (see `download_data.py`).
